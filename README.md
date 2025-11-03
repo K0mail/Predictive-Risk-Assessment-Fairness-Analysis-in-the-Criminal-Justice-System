@@ -1,1 +1,3 @@
 # Predictive-Risk-Assessment-Fairness-Analysis-in-the-Criminal-Justice-System
+
+This repository contains a comprehensive analysis of a predictive risk assessment tool used in the criminal legal system. The project focuses on evaluating the model’s accuracy, reliability, and fairness, using metrics such as confusion matrices, mean differences, and disparate impact to assess biases across age, gender, and race. The findings reveal significant limitations in prediction accuracy and fairness, with unprivileged groups facing lower probabilities of favorable outcomes. The project emphasizes responsible AI principles, including privacy protection, bias mitigation, and transparency, and provides recommendations for developing more equitable and trustworthy predictive tools.
